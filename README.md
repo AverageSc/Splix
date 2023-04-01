@@ -1,8 +1,7 @@
 # Splix - (2018-2019)
---[[
-                                          💩💩 Self leak due to people reselling a 4 year old broken cheat..???? 💩💩
-                              💩💩 For any questions or issues message https://discord.com/users/709795069355360258 on discord. 💩💩
-]]
+--
+💩💩 Self leak due to people reselling a 4 year old broken cheat..???? 💩💩
+💩💩 For any questions or issues message https://discord.com/users/709795069355360258 on discord. 💩💩
 --
 Showcase :
 
