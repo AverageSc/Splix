@@ -1,7 +1,8 @@
-# Old Splix Private Library
-Released this Library cause thought why not, Plus it was leaked to new users such as Liam and Tested
---
-Library Source, Documentation and an Example are all inside of the repository.
+# Splix - (2018-2019)
+--[[
+                                          💩💩 Self leak due to people reselling a 4 year old broken cheat..???? 💩💩
+                              💩💩 For any questions or issues message https://discord.com/users/709795069355360258 on discord. 💩💩
+]]
 --
 Showcase :
 
