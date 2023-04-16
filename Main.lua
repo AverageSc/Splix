@@ -12,7 +12,7 @@ do -- Prefetch
     end
     --
     if not isfile("splix/library.lua") then
-        writefile("splix/library.lua", game:HttpGet("https://raw.githubusercontent.com/matas3535/SplixPrivateDrawingLibrary/main/Library.lua"))
+        writefile("splix/library.lua", game:HttpGet("https://raw.githubusercontent.com/AverageSc/SplixPrivateDrawingLibrary/AverageSc-patch-1/Library.lua"))
     end
     --
     if not isfolder("splix/assets") then
